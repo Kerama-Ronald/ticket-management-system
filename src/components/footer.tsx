@@ -23,9 +23,9 @@ function Footer() {
 				</div>
 				<div className="p-5">
 					<ul>
-						<p className="text-gray-800 font-bold text-2xl pb-4">Product</p>
+						<p className="text-gray-800 font-bold text-2xl pb-4">Risk Analysis</p>
 						<li className="text-gray-500 text-md pb-2 font-semibold hover:text-blue-600 cursor-pointer">
-							Stocks
+							FAQs
 						</li>
 						<li className="text-gray-500 text-md pb-2 font-semibold hover:text-blue-600 cursor-pointer">
 							Futures & Options
@@ -50,9 +50,7 @@ function Footer() {
 						<li className="text-gray-500 text-md pb-2 font-semibold hover:text-blue-600 cursor-pointer">
 							Pricing
 						</li>
-						<li className="text-gray-500 text-md pb-2 font-semibold hover:text-blue-600 cursor-pointer">
-							Careers
-						</li>
+						
 						<li className="text-gray-500 text-md pb-2 font-semibold hover:text-blue-600 cursor-pointer">
 							Press & Media
 						</li>
@@ -73,9 +71,7 @@ function Footer() {
 						<li className="text-gray-500 text-md pb-2 font-semibold hover:text-blue-600 cursor-pointer">
 							Downloads & Resources
 						</li>
-						<li className="text-gray-500 text-md pb-2 font-semibold hover:text-blue-600 cursor-pointer">
-							Videos
-						</li>
+						
 					</ul>
 				</div>
 			</div>
