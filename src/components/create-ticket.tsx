@@ -3,7 +3,7 @@ import axios from "axios";
 
 const priorities = ["Low", "Medium", "High"];
 const statuses = ["Open", "In Progress", "Resolved"];
-const types = ["Bug/Error", "Feature Request", "Security", "Other"];
+const types = ["Service Request", "Change Request", "Incident", "Problem"];
 
 const CreateTicket: React.FC = () => {
   const [title, setTitle] = useState("");
