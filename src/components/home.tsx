@@ -1,5 +1,5 @@
 import React from 'react';
-import './BluePage.css'; // You can create this CSS file to style your page
+import './home.css; // You can create this CSS file to style your page
 
 interface TeamMemberProps {
   name: string;
@@ -26,12 +26,12 @@ const BluePage: React.FC = () => (
       <TeamMember
         name="Brian Tovo"
         role="IT Associate"
-        imageSrc="brian-tovo-image-url.jpg" // Replace with actual image URL
+        imageSrc="src/assets/Tovo.jpeg" // Replace with actual image URL
       />
       <TeamMember
         name="Tandon Samora"
         role="SOC Analyst"
-        imageSrc="tandon-samora-image-url.jpg" // Replace with actual image URL
+        imageSrc="src/assets/Samora.jpeg" // Replace with actual image URL
       />
     </div>
   </div>

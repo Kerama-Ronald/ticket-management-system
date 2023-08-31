@@ -1,0 +1,42 @@
+.blue-page {
+    background-color: #0b5cde; /* Updated to the provided blue color */
+    color: white;
+    padding: 20px;
+  }
+  
+  .team-container {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+  }
+  
+  .team-member {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .member-image {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-bottom: 10px;
+    background-color: white;
+  }
+  
+  .member-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  .member-details h3 {
+    margin: 0;
+    font-size: 1.2rem;
+  }
+  
+  .member-details p {
+    margin: 0;
+  }
+  
