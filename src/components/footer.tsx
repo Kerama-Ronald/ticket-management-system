@@ -7,7 +7,7 @@ function Footer() {
 			<div className="p-5">
 				<ul>
 					<p className="text-gray-800 font-bold text-3xl pb-6">
-						Secure<span className="text-blue-600">Tech</span>
+					Sentinel <span className="text-blue-600">Africa Limited</span>
 					</p>
 					<div className="flex gap-6 pb-5">
 						<FaInstagram className="text-2xl cursor-pointer hover:text-yellow-600" />
@@ -70,9 +70,9 @@ function Footer() {
 			</div>
 			<div className="flex flex-col justify-center items-center text-center p-5 bg-gray-50">
 				<p className="text-gray-800 font-semibold">
-					© 2023 All rights reserved SecureTech.
+					© 2023 All rights reserved Sentinel Africa Limited
 					<span className="hover:text-blue-600 font-semibold cursor-pointer">
-						<span className="text-blue-600">SecureTech</span> Solutions{" "}
+						<span className="text-blue-600">Sentinel </span> Africa Limited{" "}
 					</span>
 				</p>
 			</div>

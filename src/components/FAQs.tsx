@@ -45,5 +45,6 @@ function FAQs() {
 		</section>
 	);
 }
+}
 
 export default FAQs;

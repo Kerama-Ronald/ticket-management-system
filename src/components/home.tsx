@@ -1,5 +1,5 @@
 import React from 'react';
-import './home.css; // You can create this CSS file to style your page
+// import './home.css; // You can create this CSS file to style your pag
 
 interface TeamMemberProps {
   name: string;
@@ -21,7 +21,7 @@ const TeamMember: React.FC<TeamMemberProps> = ({ name, role, imageSrc }) => (
 
 const BluePage: React.FC = () => (
   <div className="blue-page">
-    <h1>MEET OUR IT TEAM</h1>
+    <h1>Meet the support team on call</h1>
     <div className="team-container">
       <TeamMember
         name="Brian Tovo"
